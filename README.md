@@ -14,13 +14,6 @@ You need to install the following:
 
 ## Development
 
-### Initialization
-
-```sh
-cp .envrc.example .envrc
-direnv allow
-```
-
 ### Running on Host PC
 
 ```sh

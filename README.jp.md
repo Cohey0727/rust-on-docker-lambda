@@ -10,16 +10,8 @@ RustのWebAPIをDocker Lambdaで動かすためのリポジトリ
 | ------------- | ------- | ---------------------------- |
 | Docker Engine | 25.0.2  | Runtime                      |
 | Rust          | 1.75    | backend language             |
-| direnv        | -       | environment variable manager |
 
 ## 開発
-
-### 初期化
-
-```sh
-cp .envrc.example .envrc
-direnv allow
-```
 
 ### ホストPCで実行
 
