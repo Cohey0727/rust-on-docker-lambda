@@ -10,7 +10,6 @@ You need to install the following:
 | ------------- | ------- | ---------------------------- |
 | Docker Engine | 25.0.2  | Runtime                      |
 | Rust          | 1.75    | Backend language             |
-| Direnv        | -       | Environment variable manager |
 
 ## Development
 
